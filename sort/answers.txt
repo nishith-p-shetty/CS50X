@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Slowest of all took 0.278 seconds
+
+sort2 uses: Merge Sort
+
+How do you know?: Fastest of all took 0.81 seconds
+
+sort3 uses: Selection Sort
+
+How do you know?: is in middle took 0.154 seconds
